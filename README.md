@@ -8,10 +8,10 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Hexline Video Recorder](https://hexline.rosvold.dev)** | Windows screen and video recorder | C#, TypeScript |
-| **[Hexline Autoclicker](https://autoclicker.rosvold.dev)** | Lightweight autoclicker | Python |
-| **[rosvold.dev](https://rosvold.dev)** | The site that lists, serves and releases my apps | Next.js, TypeScript, Cloudflare Workers + R2 |
-| **Mentrix Framework** | Custom FiveM roleplay framework for GTA V (OneSync) | Lua 5.4, JavaScript |
+| **[Hexline Video Recorder](https://hexline.rosvold.dev)** | Windows screen and video recorder | <img src="https://skillicons.dev/icons?i=cs,ts" alt="C#, TypeScript" height="28"> |
+| **[Hexline Autoclicker](https://autoclicker.rosvold.dev)** | Lightweight autoclicker | <img src="https://skillicons.dev/icons?i=py" alt="Python" height="28"> |
+| **[rosvold.dev](https://rosvold.dev)** | The site that lists, serves and releases my apps | <img src="https://skillicons.dev/icons?i=nextjs,ts,cloudflare" alt="Next.js, TypeScript, Cloudflare" height="28"> |
+| **Mentrix Framework** | Custom FiveM roleplay framework for GTA V (OneSync) | <img src="https://skillicons.dev/icons?i=lua,js" alt="Lua, JavaScript" height="28"> |
 
 Most of my repositories are private, so the list above is the best place to see what I work on.
 
