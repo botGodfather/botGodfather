@@ -45,7 +45,12 @@ Other       █░░░░░░░░░░░░░░░░░░░░░�
 
 ## Activity
 
-[![GitHub streak](https://streak-stats.demolab.com?user=botGodfather&theme=transparent&hide_border=true)](https://github.com/botGodfather)
+<a href="https://github.com/botGodfather">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=botGodfather&theme=transparent&hide_border=true&ring=6D4AFF&fire=FF8A00&currStreakNum=A994FF&currStreakLabel=A994FF&sideNums=A994FF&sideLabels=A994FF&dates=9A9AA4&stroke=26262C">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=botGodfather&theme=transparent&hide_border=true&ring=6D4AFF&fire=FF8A00&currStreakNum=6D4AFF&currStreakLabel=6D4AFF&sideNums=6D4AFF&sideLabels=6D4AFF&dates=8A8A95&stroke=E4E2E2">
+  </picture>
+</a>
 
 ## Get in touch
 
