@@ -1,6 +1,6 @@
 # Hi, I'm Oliver 👋
 
-23, from Trondheim, Norway. I'm teaching myself full-stack development by building and shipping real things: desktop apps, the website that serves them, and a custom game-server framework.
+23, from Trondheim, Norway. I'm teaching myself full-stack development by building and shipping real things: desktop apps, the website that serves them, a Minecraft mod, and a custom game-server framework.
 
 🌐 **[rosvold.dev](https://rosvold.dev)**
 
@@ -10,6 +10,7 @@
 |---|---|---|
 | **[Hexline Video Recorder](https://hexline.rosvold.dev)** | Windows screen and video recorder | <img src="https://skillicons.dev/icons?i=cs,ts" alt="C#, TypeScript" height="28"> |
 | **[Hexline Autoclicker](https://autoclicker.rosvold.dev)** | Lightweight autoclicker | <img src="https://skillicons.dev/icons?i=py" alt="Python" height="28"> |
+| **[Terranium](https://terranium.rosvold.dev)** | Minecraft mod (NeoForge 1.21.1, for ATM10): Terranium gear, rare End ore and a Crimson Ender Dragon boss fight | <img src="https://skillicons.dev/icons?i=java" alt="Java" height="28"> |
 | **[rosvold.dev](https://rosvold.dev)** | The site that lists, serves and releases my apps | <img src="https://skillicons.dev/icons?i=nextjs,ts,cloudflare" alt="Next.js, TypeScript, Cloudflare" height="28"> |
 | **Mentrix Framework** | Custom FiveM roleplay framework for GTA V (OneSync) | <img src="https://skillicons.dev/icons?i=lua,js" alt="Lua, JavaScript" height="28"> |
 
@@ -29,11 +30,12 @@ Paste a Steam profile and it reads the player's CS2 match history, then flags wh
 Measured across my own repositories (forks and old vendored server dumps left out):
 
 ```text
-Lua         ███████████░░░░░░░░░░░░░░░░░░░  36%
-C#          ██████████░░░░░░░░░░░░░░░░░░░░  32%
+Lua         ██████████░░░░░░░░░░░░░░░░░░░░  34%
+C#          █████████░░░░░░░░░░░░░░░░░░░░░  30%
 TypeScript  ████░░░░░░░░░░░░░░░░░░░░░░░░░░  13%
 JavaScript  ███░░░░░░░░░░░░░░░░░░░░░░░░░░░  11%
 Python      ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
+Java        █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4%
 Other       █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3%   CSS, PowerShell, HTML
 ```
 
@@ -43,6 +45,7 @@ Other       █░░░░░░░░░░░░░░░░░░░░░�
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
