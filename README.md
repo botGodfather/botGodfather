@@ -20,7 +20,7 @@ Most of my repositories are private, so the list above is the best place to see 
 
 <a href="https://csdetect.com"><img src="assets/csdetect.gif" alt="csdetect logo" width="56" align="left"></a>
 
-**[csdetect.com](https://csdetect.com)**, together with [@petterblaasmo](https://github.com/petterblaasmo).<br>
+**[csdetect.com](https://csdetect.com)** together with [@petterblaasmo](https://github.com/petterblaasmo).<br>
 Paste a Steam profile and it reads the player's CS2 match history, then flags what is statistically out of place for their rank.
 
 <br clear="left">
