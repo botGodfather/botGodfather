@@ -11,6 +11,7 @@
 | **[Hexline Video Recorder](https://hexline.rosvold.dev)** | Windows screen and video recorder | <img src="https://skillicons.dev/icons?i=cs,ts" alt="C#, TypeScript" height="28"> |
 | **[Hexline Autoclicker](https://autoclicker.rosvold.dev)** | Lightweight autoclicker | <img src="https://skillicons.dev/icons?i=py" alt="Python" height="28"> |
 | **[Terranium](https://terranium.rosvold.dev)** | Minecraft mod (NeoForge 1.21.1, for ATM10): Terranium gear, rare End ore and a Crimson Ender Dragon boss fight | <img src="https://skillicons.dev/icons?i=java" alt="Java" height="28"> |
+| **[HexGebra](https://rosvold.dev/hexgebra)** | Offline GeoGebra with a sidebar for Norway's 1P math exam: pick what the task asks, get the GeoGebra steps and ready-to-paste answer sentences (private download) | <img src="https://skillicons.dev/icons?i=electron,js" alt="Electron, JavaScript" height="28"> |
 | **[rosvold.dev](https://rosvold.dev)** | The site that lists, serves and releases my apps | <img src="https://skillicons.dev/icons?i=nextjs,ts,cloudflare" alt="Next.js, TypeScript, Cloudflare" height="28"> |
 | **Mentrix Framework** | Custom FiveM roleplay framework for GTA V (OneSync) | <img src="https://skillicons.dev/icons?i=lua,js" alt="Lua, JavaScript" height="28"> |
 
